@@ -1,2 +1,7 @@
 # CAPM-Calculator
-Calculates Expected Annual Returns of a Stock and the Market using CAPM and finds Beta
+Calculates:
+1. Expected Annual Stock Return 
+2. Expected Annual Market Return
+3. Beta
+All using CAPM 
+
